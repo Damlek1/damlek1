@@ -6,6 +6,6 @@
 - 💬 Ask me about Frontend web development
 - 📫 How to reach me: ajayioluwasegun111@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I always ready to learn
+- ⚡ Fun fact: I'm always ready to learn
 -  :globe_with_meridians: [my personal website](https://oluwasegunajayi.vercel.app)
 
