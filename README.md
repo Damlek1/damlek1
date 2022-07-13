@@ -1,4 +1,4 @@
-### Hi 👋, I'm Oluwasegun Ajayi
+### Hi 👋, I'm Oluwasegun :wink:
 
 - 🔭 I’m currently working on HTML,CSS,JavaScript,ReactJs,NextJs,Tailwind CSS and Material UI
 - 🌱 I’m currently learning Reactjs best practices
