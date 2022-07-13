@@ -7,5 +7,5 @@
 - 📫 How to reach me: ajayioluwasegun111@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I always ready to learn
-- [my personal website](https://oluwasegunajayi.vercel.app)
+-  :globe_with_meridians: [my personal website](https://oluwasegunajayi.vercel.app)
 
